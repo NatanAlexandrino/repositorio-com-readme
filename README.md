@@ -1,5 +1,5 @@
 # Projeto com README
-Um porjeto de teste com um arquivo README 
+Um projeto de teste com um arquivo README 
 
 [<img src="./Animação Tela .gif" alt="gif da tela do site Neal.fun">](https://neal.fun/)
 
